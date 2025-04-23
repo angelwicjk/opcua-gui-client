@@ -1,4 +1,4 @@
-# 🧠 SMC OPC UA GUI Client
+# 🧠 OPC UA GUI Client
 
 > A secure and real-time OPC UA client built in C# for visualizing and monitoring data from OPC UA System devices.
 
