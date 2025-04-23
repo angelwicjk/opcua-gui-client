@@ -34,6 +34,14 @@ It allows real-time subscription to multiple nodes, manages certificate-based au
 4. The **MonitorForm** displays real-time data such as pressure, flow, energy usage, and more from the connected to device.
 5. You can **adjust polling intervals** dynamically through the **PollingRateForm** for optimized performance and refresh rate.
 ---
+## 👤 Author
+
+**Hüseyin Bertan Acar**  
+📧 bertan_acr@hotmail.com  
+📍 İzmir / Turkey  
+🔗 [LinkedIn](https://www.linkedin.com/in/huseyin-bertan-acar/)
+
+---
 ## 📄 License
 
 This project is licensed under the **MIT License**.
